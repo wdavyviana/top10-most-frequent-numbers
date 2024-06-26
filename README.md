@@ -78,4 +78,21 @@ Top 10 Most Frequent Numbers:
 - More elaborate presentation: Style the output for better visual appeal or add features like interactive visualizations.
 - This code provides a foundation for exploring data frequency analysis with JavaScript. Adapt and extend it to fit your specific needs and create more sophisticated data analysis tools.
 
+### Objetivo 
+
+I created this code, with the intention of betting on the lottery, so I made a code that could read more than 2 thousand results from the latest lottery games, which is equivalent to more than 16 thousand numbers to read. So I made a code that gave me the 10 most frequent numbers and how often they appeared in the results, from most frequent to least frequent.
+
+### how the lottery game works 
+
+In the game there are numbers from 1 to 80 to choose and mark, of these numbers I can choose 7, if I match 5 of the 7 numbers I would win. So of the 10 most frequent numbers I chose 7 and marked them. 
+#### Note: I didn't win the lottery.
+
+### Conclusion
+I noticed that the number of times each number appeared was very close to each other.
+From this, it was validated that despite obtaining the result of the 10 most frequent numbers in a lottery. The probability is the same for any number.
+
+
+
+
+
 
